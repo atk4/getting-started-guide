@@ -1,0 +1,11 @@
+{
+  "minimum-stability": "dev",
+  "require": {
+    "atk4/ui": "dev-develop"
+  },
+  "autoload": {
+    "psr-4": {
+      "Exemplar\\": "src/"
+    }
+  }
+}
